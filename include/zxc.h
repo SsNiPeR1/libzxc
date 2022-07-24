@@ -1,1 +1,1 @@
-int zxc();
+int zxc(int ZXC, int minus);
